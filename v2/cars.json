@@ -1,0 +1,582 @@
+[
+{
+"id": "46ebb084bed64843b8311d87fb0459d4",
+"n": "Shvan 92 Custom",
+"a": "DanielZhabotinsky",
+"l": 5.01,
+"w": 2.35,
+"h": 2.02,
+"flip": 0,
+"tris": 25111
+},
+{
+"id": "c5134fcf8d2944b4b8800ec46fa02e17",
+"n": "Shvan 92 Traveller",
+"a": "DanielZhabotinsky",
+"l": 5.18,
+"w": 2.35,
+"h": 2.11,
+"flip": 0,
+"tris": 27459
+},
+{
+"id": "ac4a91cb1b184ebd82c598c1bc54ba3d",
+"n": "Phoenix '93 Interceptor",
+"a": "DanielZhabotinsky",
+"l": 4.95,
+"w": 1.98,
+"h": 1.45,
+"flip": 0,
+"tris": 14610
+},
+{
+"id": "bd4c9883b9194ba1ac1c7f22300976b9",
+"n": "Canyon '75 Custom",
+"a": "DanielZhabotinsky",
+"l": 5.3,
+"w": 2.13,
+"h": 1.63,
+"flip": 0,
+"tris": 22379
+},
+{
+"id": "6dd4ae19c454414d9eed2bc524515d78",
+"n": "JDM Sport '99",
+"a": "DanielZhabotinsky",
+"l": 4.68,
+"w": 1.97,
+"h": 1.35,
+"flip": 0,
+"tris": 23155
+},
+{
+"id": "6c48c94be8974dc7a5932f697c0ba68f",
+"n": "Conquer '89 Pickup",
+"a": "DanielZhabotinsky",
+"l": 5.22,
+"w": 2.1,
+"h": 1.85,
+"flip": 0,
+"tris": 21094
+},
+{
+"id": "09d718c9cf72401b8534d265a06a803f",
+"n": "Shvan '92",
+"a": "DanielZhabotinsky",
+"l": 4.9,
+"w": 2.35,
+"h": 1.93,
+"flip": 0,
+"tris": 23001
+},
+{
+"id": "eea2291a90f04a4b860c9e74be14f2d6",
+"n": "Sialia SW '68",
+"a": "DanielZhabotinsky",
+"l": 4.13,
+"w": 1.54,
+"h": 1.37,
+"flip": 0,
+"tris": 17959
+},
+{
+"id": "97b15b067111443ebe05840137b49c65",
+"n": "Asti Stradale '89",
+"a": "DanielZhabotinsky",
+"l": 3.9,
+"w": 1.84,
+"h": 1.39,
+"flip": 0,
+"tris": 20845
+},
+{
+"id": "7da68ec2677f4abd8e31e9998b497a67",
+"n": "Fairheaven LT '80 Taxi",
+"a": "DanielZhabotinsky",
+"l": 5.07,
+"w": 1.83,
+"h": 1.44,
+"flip": 0,
+"tris": 18763
+},
+{
+"id": "46fed79f600c4fc69e060991f9e3e4f9",
+"n": "Duke '69",
+"a": "DanielZhabotinsky",
+"l": 5.24,
+"w": 1.96,
+"h": 1.4,
+"flip": 0,
+"tris": 18549
+},
+{
+"id": "22732575b0644cc9b65cf21857288189",
+"n": "Eugene MK6 '65",
+"a": "DanielZhabotinsky",
+"l": 3.98,
+"w": 1.73,
+"h": 1.72,
+"flip": 0,
+"tris": 26172
+},
+{
+"id": "caf7ea9fdf90462cbdc2b0edf872ead8",
+"n": "Thunderbolt '96 Interceptor - Low poly m",
+"a": "DanielZhabotinsky",
+"l": 4.41,
+"w": 1.95,
+"h": 1.52,
+"flip": 0,
+"tris": 20064
+},
+{
+"id": "9e8f92a215784f3d8aaaaeab1bef54c4",
+"n": "Canyon '75 Taxi",
+"a": "DanielZhabotinsky",
+"l": 5.31,
+"w": 2.13,
+"h": 1.83,
+"flip": 0,
+"tris": 20023
+},
+{
+"id": "3b3ac59245c44872b06ad85673be9643",
+"n": "Lightbody '90 MD Pickup",
+"a": "DanielZhabotinsky",
+"l": 5.36,
+"w": 2.0,
+"h": 1.66,
+"flip": 0,
+"tris": 27076
+},
+{
+"id": "28ef95f2c0ef41a697b90c071fd4b25c",
+"n": "APX '70",
+"a": "DanielZhabotinsky",
+"l": 4.46,
+"w": 1.85,
+"h": 1.11,
+"flip": 0,
+"tris": 20469
+},
+{
+"id": "8509a7f82665442592627940b7a1cfab",
+"n": "Riverside '88",
+"a": "DanielZhabotinsky",
+"l": 4.91,
+"w": 1.91,
+"h": 1.32,
+"flip": 0,
+"tris": 19259
+},
+{
+"id": "25c6874d173a4f6ca63e150bbd505686",
+"n": "Compact '07",
+"a": "DanielZhabotinsky",
+"l": 2.69,
+"w": 1.74,
+"h": 1.53,
+"flip": 0,
+"tris": 15003
+},
+{
+"id": "7129af29b710479ca62cd5376fbc4aa4",
+"n": "Ukrainer '79",
+"a": "DanielZhabotinsky",
+"l": 3.75,
+"w": 1.51,
+"h": 1.29,
+"flip": 0,
+"tris": 13738
+},
+{
+"id": "82fd2008ce304df688ec4dfcd42d41ce",
+"n": "Roadster '00",
+"a": "DanielZhabotinsky",
+"l": 3.74,
+"w": 1.82,
+"h": 1.09,
+"flip": 0,
+"tris": 15796
+},
+{
+"id": "63aa215521334cef9c4d8c4c391252ad",
+"n": "Saba V12 '95 Interceptor",
+"a": "DanielZhabotinsky",
+"l": 4.56,
+"w": 2.18,
+"h": 1.53,
+"flip": 0,
+"tris": 25393
+},
+{
+"id": "7f75854aba96417f8279bd9f1b24e6b2",
+"n": "Rancher '50 Custom",
+"a": "DanielZhabotinsky",
+"l": 4.95,
+"w": 1.94,
+"h": 1.71,
+"flip": 0,
+"tris": 16933
+},
+{
+"id": "128691a403ec4dd5af28c2e7c9037a3a",
+"n": "Lolita '91",
+"a": "DanielZhabotinsky",
+"l": 3.94,
+"w": 1.86,
+"h": 1.21,
+"flip": 0,
+"tris": 14157
+},
+{
+"id": "c967ab4abbc54ae4b7933fd81a86c99c",
+"n": "Cheetah '84",
+"a": "DanielZhabotinsky",
+"l": 4.56,
+"w": 1.94,
+"h": 1.18,
+"flip": 0,
+"tris": 23318
+},
+{
+"id": "f30b644b59b54e809355009dce463d47",
+"n": "Chapman '73",
+"a": "DanielZhabotinsky",
+"l": 5.67,
+"w": 2.12,
+"h": 1.42,
+"flip": 0,
+"tris": 12795
+},
+{
+"id": "64d5d6f074a84717ac6d764f35c95285",
+"n": "Kiri '94 Racemod",
+"a": "DanielZhabotinsky",
+"l": 4.58,
+"w": 1.89,
+"h": 1.38,
+"flip": 0,
+"tris": 17974
+},
+{
+"id": "776078e51fbe4ec9addbe45ba13e1aad",
+"n": "NFR '90",
+"a": "DanielZhabotinsky",
+"l": 4.44,
+"w": 1.97,
+"h": 1.15,
+"flip": 0,
+"tris": 16864
+},
+{
+"id": "663a0953c038434a918cb85725c88ffa",
+"n": "LCT 3000 '95",
+"a": "DanielZhabotinsky",
+"l": 6.02,
+"w": 2.61,
+"h": 2.85,
+"flip": 0,
+"tris": 18913
+},
+{
+"id": "955edc733c6d44fabc0ad7c246a15896",
+"n": "Phoenix 455 '71",
+"a": "DanielZhabotinsky",
+"l": 4.89,
+"w": 2.09,
+"h": 1.33,
+"flip": 0,
+"tris": 25919
+},
+{
+"id": "61766c1e6e1e4b2b803c174f33433a74",
+"n": "Fairheaven LT '80 Cop Cruiser - Low poly",
+"a": "DanielZhabotinsky",
+"l": 5.07,
+"w": 1.83,
+"h": 1.57,
+"flip": 0,
+"tris": 19437
+},
+{
+"id": "1f00f875bd594469ad41e377585dc0fc",
+"n": "Coupe '33 Hotrod #1",
+"a": "DanielZhabotinsky",
+"l": 4.19,
+"w": 1.97,
+"h": 1.58,
+"flip": 0,
+"tris": 17531
+},
+{
+"id": "443da3cd0f4547c980e52168bfbe7b76",
+"n": "Fuel Truck",
+"a": "abdullahjavedyo90",
+"l": 14.8,
+"w": 2.8,
+"h": 3.06,
+"flip": 0,
+"tris": 48158
+},
+{
+"id": "b92072c8cd9d4ee6b3c0be45de48223c",
+"n": "Kiri '94",
+"a": "DanielZhabotinsky",
+"l": 4.54,
+"w": 1.8,
+"h": 1.42,
+"flip": 0,
+"tris": 14570
+},
+{
+"id": "6a5c6c8a75764eea905541fd5b05e9bf",
+"n": "Trinity '03 Cop Interceptor - Low poly m",
+"a": "DanielZhabotinsky",
+"l": 4.5,
+"w": 1.9,
+"h": 1.48,
+"flip": 0,
+"tris": 20733
+},
+{
+"id": "cd19005ea4c5415d834adebdd6c9bb56",
+"n": "Gallo '99 Interceptor",
+"a": "DanielZhabotinsky",
+"l": 4.74,
+"w": 1.97,
+"h": 1.51,
+"flip": 0,
+"tris": 24454
+},
+{
+"id": "b71558486d024ecc8dc4abbb1263f022",
+"n": "Chapman '73 Cop cruiser",
+"a": "DanielZhabotinsky",
+"l": 5.67,
+"w": 2.12,
+"h": 1.69,
+"flip": 0,
+"tris": 13790
+},
+{
+"id": "0cd661aaab6949ba9d77dbb13ab146c5",
+"n": "Fairheaven SW '80 Fire Dept. - Low poly",
+"a": "DanielZhabotinsky",
+"l": 5.07,
+"w": 1.83,
+"h": 1.49,
+"flip": 0,
+"tris": 21263
+},
+{
+"id": "c880d700b7ec445ea9718e1b73f97e3e",
+"n": "Coupe '33 Hot Rod #2",
+"a": "DanielZhabotinsky",
+"l": 4.26,
+"w": 1.97,
+"h": 1.59,
+"flip": 0,
+"tris": 18248
+},
+{
+"id": "a9832fee5393460baf1675fade6f2f25",
+"n": "Stinger '96",
+"a": "DanielZhabotinsky",
+"l": 4.17,
+"w": 1.95,
+"h": 1.23,
+"flip": 0,
+"tris": 13377
+},
+{
+"id": "945fd09f513f4d1ab19b6388a7ea7323",
+"n": "Negotiator '80 Cop Cruiser - Low poly mo",
+"a": "DanielZhabotinsky",
+"l": 4.98,
+"w": 1.87,
+"h": 1.6,
+"flip": 0,
+"tris": 20647
+},
+{
+"id": "a6840c4f4b4b45ca805d0f76e809f042",
+"n": "Duntov '57",
+"a": "DanielZhabotinsky",
+"l": 4.54,
+"w": 1.82,
+"h": 1.36,
+"flip": 0,
+"tris": 18154
+},
+{
+"id": "3ab977050c334c13b6abb5de078b4957",
+"n": "Saba V12 '95",
+"a": "DanielZhabotinsky",
+"l": 4.51,
+"w": 2.18,
+"h": 1.32,
+"flip": 0,
+"tris": 24500
+},
+{
+"id": "5cba208001c64e8ea164f89e4dde91e7",
+"n": "Lightbody '90 MD Tow Truck - Low poly mo",
+"a": "DanielZhabotinsky",
+"l": 5.66,
+"w": 2.0,
+"h": 1.97,
+"flip": 0,
+"tris": 26134
+},
+{
+"id": "2e14302c06b546b0821af441da718b68",
+"n": "Libeccio V6 '91",
+"a": "DanielZhabotinsky",
+"l": 3.97,
+"w": 1.81,
+"h": 1.26,
+"flip": 0,
+"tris": 13982
+},
+{
+"id": "13de926717214b8a94eaf90b0f0067d6",
+"n": "Murphy '92 Cop Cruiser",
+"a": "DanielZhabotinsky",
+"l": 5.01,
+"w": 2.05,
+"h": 1.55,
+"flip": 0,
+"tris": 16693
+},
+{
+"id": "fbd5b96599944932a71fc8c81291253c",
+"n": "Phoenix 455 '71 Interceptor - Low poly m",
+"a": "DanielZhabotinsky",
+"l": 4.98,
+"w": 2.09,
+"h": 1.51,
+"flip": 0,
+"tris": 26477
+},
+{
+"id": "22abe5284d4c4b55920b8462eb24a8c1",
+"n": "Sigil '07",
+"a": "DanielZhabotinsky",
+"l": 4.33,
+"w": 1.78,
+"h": 1.38,
+"flip": 0,
+"tris": 16915
+},
+{
+"id": "d43bb748da364af2b3f0a9348365f0fb",
+"n": "Tozzo '98",
+"a": "DanielZhabotinsky",
+"l": 4.41,
+"w": 1.87,
+"h": 1.38,
+"flip": 0,
+"tris": 17886
+},
+{
+"id": "b2261c471645417a8b7e5882d541c248",
+"n": "Sanremo '70",
+"a": "DanielZhabotinsky",
+"l": 4.18,
+"w": 1.71,
+"h": 1.25,
+"flip": 0,
+"tris": 13611
+},
+{
+"id": "d3aca50a8f2b4917bb9f4ce2bf1ccfe5",
+"n": "Lightbody '90 MD Utility",
+"a": "DanielZhabotinsky",
+"l": 5.37,
+"w": 2.0,
+"h": 1.66,
+"flip": 0,
+"tris": 26590
+},
+{
+"id": "122a22d210234596ad23623588d0d166",
+"n": "Milano '95",
+"a": "DanielZhabotinsky",
+"l": 3.85,
+"w": 1.93,
+"h": 1.44,
+"flip": 0,
+"tris": 18026
+},
+{
+"id": "67beae18c3d24be68f9c8f0ec382d8e3",
+"n": "Lightbody Lifted '85",
+"a": "DanielZhabotinsky",
+"l": 4.93,
+"w": 2.14,
+"h": 1.92,
+"flip": 0,
+"tris": 37326
+},
+{
+"id": "41b3a5c0bc534817b3311c3736c403e6",
+"n": "El Alamo '78",
+"a": "DanielZhabotinsky",
+"l": 5.13,
+"w": 1.91,
+"h": 1.38,
+"flip": 0,
+"tris": 16154
+},
+{
+"id": "3be03b6a43aa41898c9ca806b8787052",
+"n": "LCT 3000 '07- Low poly model",
+"a": "DanielZhabotinsky",
+"l": 5.86,
+"w": 2.43,
+"h": 2.84,
+"flip": 0,
+"tris": 15818
+},
+{
+"id": "7fd6e15785fa4aa9bfd6e31eb7c97ba6",
+"n": "Kiri '10",
+"a": "DanielZhabotinsky",
+"l": 4.36,
+"w": 1.71,
+"h": 1.48,
+"flip": 0,
+"tris": 12956
+},
+{
+"id": "cb5b519024c7472895ef10a8663fb533",
+"n": "Coupe '33 Hot Rod #3",
+"a": "DanielZhabotinsky",
+"l": 4.28,
+"w": 1.79,
+"h": 1.54,
+"flip": 0,
+"tris": 21432
+},
+{
+"id": "2866efdfa943484391ef8313768e074d",
+"n": "Urban '10",
+"a": "DanielZhabotinsky",
+"l": 4.29,
+"w": 1.88,
+"h": 1.52,
+"flip": 0,
+"tris": 16465
+},
+{
+"id": "5c17c582ef9549798f694b660feea42a",
+"n": "Kiri '86",
+"a": "DanielZhabotinsky",
+"l": 4.31,
+"w": 1.76,
+"h": 1.32,
+"flip": 0,
+"tris": 20262
+}
+]
