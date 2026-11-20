@@ -1,0 +1,65 @@
+# Vehicle model credits
+
+All models are licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+Changes made for Backseat City: rescaled and re-oriented, meshes merged per material, textures resized and recompressed, badge/logo decals removed.
+All vehicles are fictional; Backseat Interactive has no affiliation with or endorsement by any car maker.
+
+- *Generic passenger car pack* by [comrade1280](https://sketchfab.com/comrade1280): https://sketchfab.com/3d-models/generic-passenger-car-pack-20f9af9b8a404d5cb022ac6fe87f21f5
+- *Shvan 92 Custom* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/46ebb084bed64843b8311d87fb0459d4
+- *Shvan 92 Traveller* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/c5134fcf8d2944b4b8800ec46fa02e17
+- *Phoenix '93 Interceptor* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/ac4a91cb1b184ebd82c598c1bc54ba3d
+- *Canyon '75 Custom* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/bd4c9883b9194ba1ac1c7f22300976b9
+- *JDM Sport '99* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/6dd4ae19c454414d9eed2bc524515d78
+- *Conquer '89 Pickup* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/6c48c94be8974dc7a5932f697c0ba68f
+- *Shvan '92* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/09d718c9cf72401b8534d265a06a803f
+- *Sialia SW '68* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/eea2291a90f04a4b860c9e74be14f2d6
+- *Asti Stradale '89* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/97b15b067111443ebe05840137b49c65
+- *Fairheaven LT '80 Taxi* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/7da68ec2677f4abd8e31e9998b497a67
+- *Duke '69* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/46fed79f600c4fc69e060991f9e3e4f9
+- *Eugene MK6 '65* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/22732575b0644cc9b65cf21857288189
+- *Thunderbolt '96 Interceptor - Low poly m* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/caf7ea9fdf90462cbdc2b0edf872ead8
+- *Canyon '75 Taxi* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/9e8f92a215784f3d8aaaaeab1bef54c4
+- *Lightbody '90 MD Pickup* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/3b3ac59245c44872b06ad85673be9643
+- *APX '70* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/28ef95f2c0ef41a697b90c071fd4b25c
+- *Riverside '88* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/8509a7f82665442592627940b7a1cfab
+- *Compact '07* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/25c6874d173a4f6ca63e150bbd505686
+- *Ukrainer '79* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/7129af29b710479ca62cd5376fbc4aa4
+- *Roadster '00* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/82fd2008ce304df688ec4dfcd42d41ce
+- *Saba V12 '95 Interceptor* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/63aa215521334cef9c4d8c4c391252ad
+- *Rancher '50 Custom* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/7f75854aba96417f8279bd9f1b24e6b2
+- *Lolita '91* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/128691a403ec4dd5af28c2e7c9037a3a
+- *Cheetah '84* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/c967ab4abbc54ae4b7933fd81a86c99c
+- *Chapman '73* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/f30b644b59b54e809355009dce463d47
+- *Kiri '94 Racemod* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/64d5d6f074a84717ac6d764f35c95285
+- *NFR '90* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/776078e51fbe4ec9addbe45ba13e1aad
+- *LCT 3000 '95* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/663a0953c038434a918cb85725c88ffa
+- *Phoenix 455 '71* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/955edc733c6d44fabc0ad7c246a15896
+- *Fairheaven LT '80 Cop Cruiser - Low poly* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/61766c1e6e1e4b2b803c174f33433a74
+- *Coupe '33 Hotrod #1* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/1f00f875bd594469ad41e377585dc0fc
+- *Fuel Truck* by [abdullahjavedyo90](https://sketchfab.com/abdullahjavedyo90): https://sketchfab.com/3d-models/443da3cd0f4547c980e52168bfbe7b76
+- *Kiri '94* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/b92072c8cd9d4ee6b3c0be45de48223c
+- *Trinity '03 Cop Interceptor - Low poly m* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/6a5c6c8a75764eea905541fd5b05e9bf
+- *Gallo '99 Interceptor* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/cd19005ea4c5415d834adebdd6c9bb56
+- *Chapman '73 Cop cruiser* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/b71558486d024ecc8dc4abbb1263f022
+- *Fairheaven SW '80 Fire Dept. - Low poly* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/0cd661aaab6949ba9d77dbb13ab146c5
+- *Coupe '33 Hot Rod #2* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/c880d700b7ec445ea9718e1b73f97e3e
+- *Stinger '96* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/a9832fee5393460baf1675fade6f2f25
+- *Negotiator '80 Cop Cruiser - Low poly mo* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/945fd09f513f4d1ab19b6388a7ea7323
+- *Duntov '57* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/a6840c4f4b4b45ca805d0f76e809f042
+- *Saba V12 '95* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/3ab977050c334c13b6abb5de078b4957
+- *Lightbody '90 MD Tow Truck - Low poly mo* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/5cba208001c64e8ea164f89e4dde91e7
+- *Libeccio V6 '91* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/2e14302c06b546b0821af441da718b68
+- *Murphy '92 Cop Cruiser* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/13de926717214b8a94eaf90b0f0067d6
+- *Phoenix 455 '71 Interceptor - Low poly m* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/fbd5b96599944932a71fc8c81291253c
+- *Sigil '07* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/22abe5284d4c4b55920b8462eb24a8c1
+- *Tozzo '98* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/d43bb748da364af2b3f0a9348365f0fb
+- *Sanremo '70* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/b2261c471645417a8b7e5882d541c248
+- *Lightbody '90 MD Utility* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/d3aca50a8f2b4917bb9f4ce2bf1ccfe5
+- *Milano '95* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/122a22d210234596ad23623588d0d166
+- *Lightbody Lifted '85* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/67beae18c3d24be68f9c8f0ec382d8e3
+- *El Alamo '78* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/41b3a5c0bc534817b3311c3736c403e6
+- *LCT 3000 '07- Low poly model* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/3be03b6a43aa41898c9ca806b8787052
+- *Kiri '10* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/7fd6e15785fa4aa9bfd6e31eb7c97ba6
+- *Coupe '33 Hot Rod #3* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/cb5b519024c7472895ef10a8663fb533
+- *Urban '10* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/2866efdfa943484391ef8313768e074d
+- *Kiri '86* by [DanielZhabotinsky](https://sketchfab.com/DanielZhabotinsky): https://sketchfab.com/3d-models/5c17c582ef9549798f694b660feea42a
